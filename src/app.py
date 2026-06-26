@@ -1,3 +1,3 @@
-print("Feature branch")
-print("Second line")
+print("Main branch")
+print("Second Line")
 print("Hello, GitHub!")
